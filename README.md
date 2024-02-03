@@ -12,6 +12,6 @@ By harnessing the potential of the LLAMA-2 model, users can expect high-quality 
 
 
 
-The seamless integration of Streamlit makes the process of generating blogs a breeze. The intuitive interface allows users to input their preferences effortlessly, while the underlying technology works tirelessly in the background to produce outstanding content. This powerful combination of user-friendliness and advanced AI technology sets this blog generator apart from the rest.
+![\n\n]The seamless integration of Streamlit makes the process of generating blogs a breeze. The intuitive interface allows users to input their preferences effortlessly, while the underlying technology works tirelessly in the background to produce outstanding content. This powerful combination of user-friendliness and advanced AI technology sets this blog generator apart from the rest.
 
 So, whether you need a blog for personal use, professional purposes, or anything in between, look no further than this blog generator. Experience the convenience, efficiency, and excellence it offers, and take your blogging journey to new heights.
